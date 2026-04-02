@@ -1,14 +1,47 @@
-# Coffee Sales Dashboard (Excel Project)
-##Interactive Excel dashboard visualizing global coffee sales by type and country.
+# Coffee Sales Dashboard (Excel Analytics Project)
 
-## Steps I Took
+## Objective
 
-1. I gathered and combined data from multiple sources using XLOOKUP and INDEX-MATCH to enrich my main dataset.
-2. I cleaned, formatted, and transformed the data—calculating metrics like total sales, converting codes into readable labels, and applying custom formatting for clarity.
-3. I created an interactive dashboard using PivotTables and PivotCharts, with slicers and filters to drill down into coffee type, roast, size, country, and customer segments.
+Develop an interactive dashboard to analyze coffee sales performance and uncover insights related to revenue trends, customer behavior, and product performance.
 
-## Project Outcome
+## Tools Used
 
-1. I developed a visually appealing and fully interactive Excel dashboard.
-2. Stakeholders can easily analyze sales trends by coffee type, country, customer loyalty, and time period.
-3. The project demonstrates my skills in Excel functions, data transformation, dashboard design, and user-friendly analytics.
+* Microsoft Excel (PivotTables, PivotCharts, XLOOKUP, INDEX-MATCH)
+* Data Cleaning & Transformation
+
+## Dataset
+
+Sales dataset containing information on coffee types, roast categories, customer segments, sales amounts, and geographic distribution.
+
+## Key Features
+
+* Interactive filters (time, roast type, size, loyalty status)
+* Revenue trends over time
+* Top 5 customers by sales
+* Country-wise sales distribution
+* Product segmentation by coffee type
+
+## Dashboard Preview
+
+![Coffee Dashboard](github image.png)
+
+## Key Insights
+
+* A small group of customers contributes disproportionately to total revenue
+* Sales fluctuate over time, indicating potential seasonal trends
+* Certain coffee types consistently outperform others in revenue generation
+* The United States dominates total sales compared to other regions
+
+## Business Value
+
+This dashboard enables stakeholders to:
+
+* Identify high-value customers and target retention strategies
+* Understand product performance and optimize inventory decisions
+* Analyze geographic sales distribution for market expansion
+* Monitor sales trends for better forecasting and planning
+
+## Files
+
+* Coffee Sales Dashboard.xlsx
+* README.md
